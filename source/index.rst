@@ -18,7 +18,7 @@ Pocket Science Labs Documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Science Experiment Tutorials
+   :caption: Basic Science Experiment Tutorials
 
    tutorials/powersource
    tutorials/multimeter
@@ -27,8 +27,6 @@ Pocket Science Labs Documentation
    tutorials/digitalsensors
    tutorials/analogsensors
    tutorials/logicanalyzer
-   tutorials/imu
-   tutorials/uart
    tutorials/servos
    
 .. toctree::
@@ -42,6 +40,8 @@ Pocket Science Labs Documentation
    :maxdepth: 2
    :caption: Advanced PSLab
 
+   tutorials/imu
+   tutorials/uart
    wifibluetooth
    programming
 
